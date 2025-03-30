@@ -50,7 +50,7 @@
   "dependencies": {
     "ansi-colors": "^4.1.3",
     "commander": "^12.1.0",
-    "@tmaxxrox97/eufy-security-client": "3.1.2-beta",
+    "eufy-security-client": "@tmaxxrox97/eufy-security-client@3.1.2-beta",
     "fs-extra": "^11.2.0",
     "tslog": "^4.9.3",
     "ws": "^8.18.0",
