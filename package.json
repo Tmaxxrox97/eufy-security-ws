@@ -1,5 +1,5 @@
 {
-  "name": "eufy-security-ws",
+  "name": "@tmaxxrox97/eufy-security-ws",
   "version": "1.9.2-beta",
   "description": "Node WebSocket server implementation to integrate Eufy Security devices",
   "exports": {
