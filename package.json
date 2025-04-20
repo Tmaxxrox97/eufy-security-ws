@@ -6,8 +6,8 @@
     "import": "./dist/lib/index.js"
   },
   "bin": {
-    "eufy-security-server": "/dist/bin/server.js",
-    "eufy-security-client": "/dist/bin/client.js"
+    "eufy-security-server": "dist/bin/server.js",
+    "eufy-security-client": "dist/bin/client.js"
   },
   "publishConfig": {
     "access": "public"
